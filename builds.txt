@@ -1,9 +1,9 @@
 id="plugin.de.build"
-version="1.0.4"
+version="1.0.5"
 zip="https://de:2029dk@server130.andy10gbit.racing:443/DE/KODI/DE.zip"
 
 name="DE"
-version="1.0.4"
+version="1.0.5"
 url="https://de:2029dk@server130.andy10gbit.racing:443/DE/KODI/DE.zip"
 minor="http://"
 gui="url.to.guisettings"
